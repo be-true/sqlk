@@ -1,4 +1,4 @@
-import { upsert2 } from '../upsert2';
+import { upsert2 } from '../src/upsert2';
 
 describe('upsert2', () => {
   it('Simple', () => {

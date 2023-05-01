@@ -1,5 +1,5 @@
-import { ParamsCollector } from '../helpers/collector';
-import { upsert } from '../upsert';
+import { ParamsCollector } from '../src/helpers/collector';
+import { upsert } from '../src/upsert';
 
 describe('upsert', () => {
   it('Only update params', () => {

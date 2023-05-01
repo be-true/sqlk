@@ -1,5 +1,4 @@
-import { TDeleteSoftOptions } from '../stater';
-import { Upsert2Params } from './types';
+import { TDeleteSoftOptions, Upsert2Params } from './types';
 import { update } from './update';
 import { upsert2 } from './upsert2';
 

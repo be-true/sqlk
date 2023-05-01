@@ -1,4 +1,4 @@
-import { cte } from '../helpers/cte';
+import { cte } from '../src/helpers/cte';
 
 describe('cte()', () => {
   it('Only update params', () => {

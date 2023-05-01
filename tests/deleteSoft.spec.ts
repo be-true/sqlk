@@ -1,4 +1,4 @@
-import { deleteSoft } from '../deleteSoft';
+import { deleteSoft } from '../src/deleteSoft';
 
 describe('deleteSoft()', () => {
   it('Обычное удаление', () => {

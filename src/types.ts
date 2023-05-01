@@ -40,3 +40,5 @@ export type Upsert2Params = {
   },
   collector?: Collector
 };
+
+export type TDeleteSoftOptions = { withUpdate?: boolean; upsert?: boolean };
