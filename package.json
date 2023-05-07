@@ -1,6 +1,6 @@
 {
   "name": "@be-true/sqlk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Набор функций для работы с SQL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

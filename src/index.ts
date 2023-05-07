@@ -6,4 +6,4 @@ export { deleteSoft } from './deleteSoft';
 export { deleteHard } from './deleteHard';
 export { cte } from './helpers/cte';
 export { StorageType, ToStorage, Upsert2Params } from './types';
-export { ParamsCollector } from './helpers/collector';
+export { ParamsCollector, ParamsEmptyCollector } from './helpers/collector';
